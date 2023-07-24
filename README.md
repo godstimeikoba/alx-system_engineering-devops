@@ -30,7 +30,7 @@ All of the following folders are projects done during the studies:
 
 ## Author :
 
-- **[David Atat](https://twitter.com/iamdaveeazi)**
+- **[Okeke Ikenna](https://www.linkedin.com/in/ikenna-okeke-4b5252104)**
 
 ## Acknowledgements
 
